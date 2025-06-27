@@ -17,7 +17,7 @@ import com.test.repositry.SearchRepositry;
 import com.test.repositry.SearchRepositryImplementation;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://poetic-banoffee-c6a282.netlify.app")
 public class PostController {
 	
 	@Autowired
